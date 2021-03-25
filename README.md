@@ -1,3 +1,3 @@
-# js-sfdxy7
+# js-sswproto
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-sfdxy7)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-sswproto)
