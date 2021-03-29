@@ -6,7 +6,7 @@ function mioPrototipo(x, y) {
 let X = new mioPrototipo("", 0, x => x + 2);
 let Y = new mioPrototipo();
 Y.a = "Hello";
-Y.b = 2;
+Y.b = 2; // Provate a sostituire 2 con "Hallo"
 Y.op = a => a + 3;
 console.log(X);
 console.log(Y);
