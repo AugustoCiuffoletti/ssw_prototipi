@@ -1,4 +1,4 @@
-// Questo codice funziona, ma è fragile e contiene "errori"
+// Questo codice funziona, ma e' fragile e contiene "errori"
 function mioPrototipo(x, y) {
   this.a = x;
   this.b = y;
